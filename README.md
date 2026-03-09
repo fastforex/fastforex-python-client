@@ -323,4 +323,4 @@ Apache 2.0 - See the FastForex [Terms of Service](https://www.fastforex.io/terms
 ## Links
 
 - [FastForex Website](https://www.fastforex.io)
-- [API Documentation](https://fastforex.readme.io)
+- [API Documentation](https://www.fastforex.io/docs)
